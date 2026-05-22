@@ -1,4 +1,6 @@
 ndspy
+
+Modified by [wildfirebill](https://github.com/wildfirebill)
 =====
 
 [![Discord](https://img.shields.io/discord/534221996230180884.svg?logo=discord&logoColor=white&colorB=7289da)](https://discord.gg/RQhxAxw)
